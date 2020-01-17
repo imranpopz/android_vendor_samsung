@@ -55,7 +55,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/sensors.universal3475.so:system/lib/hw/sensors.universal3475.so \
     vendor/samsung/j2lte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/j2lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/samsung/j2lte/proprietary/lib/libcsc.so:system/lib/libcsc.so \
     vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:system/lib/libexynoscameraexternal.so \
     vendor/samsung/j2lte/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
